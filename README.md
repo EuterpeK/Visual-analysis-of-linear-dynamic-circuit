@@ -2,10 +2,10 @@
 
 I have wrote anonther program to analysis the circuit
 
-I used node voltage method to simplified circuit model and it is written with c++
+I used node voltage method to simplified circuit model and it was written with c++
 
 
-this is writen in ten hours and it is a very base one.
+this was writen in ten hours and it is a very basic one.
 
 because of the task of circuit course, I have to write this
 
